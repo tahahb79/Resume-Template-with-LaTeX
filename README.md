@@ -6,13 +6,12 @@ spans the full text width, with dates and locations aligned to the
 right edge of the same line — no wasted margins, no mismatched
 columns. Designed to fit comfortably on one page.
 
-**GitHub:** https://github.com/tahahb79
-*(replace with this repository's URL once published)*
+**GitHub:** https://github.com/tahahb79/Resume-Template-with-LaTeX
+
 
 > **Looking for a longer academic CV format instead** (with
 > publications, research projects, and references)? See the
-> companion [CV template](https://github.com/tahahb79) *(link to
-> that repo)* — it uses the same `resume.cls` file.
+> companion [CV template](https://github.com/tahahb79/Full-Width-Academic-Industry-CV-Resume-Template)  — it uses the same `resume.cls` file.
 
 ## Files
 
